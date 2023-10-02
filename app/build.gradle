@@ -56,7 +56,7 @@ dependencies {
 
     // for taking care of the views and clicks declaration
     implementation 'com.jakewharton:butterknife:10.2.1'
-    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.3'
     implementation 'com.yarolegovich:discrete-scrollview:1.4.9'
     implementation 'de.hdodenhof:circleimageview:3.0.1'
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
